@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" alt="Add-on Microsoft Edge Browser Logo" width="250">
-</p>
+
 
 <h1 align="center"> E-Commerce Browser Add-on Microsoft Edge</h>
 
